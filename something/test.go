@@ -1,5 +1,5 @@
 package something
 
-func run() {
-	
+func Run() {
+
 }
